@@ -1,0 +1,3 @@
+http://ithare.com/a-usable-c-dialect-that-is-safe-against-memory-corruption/
+
+http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
